@@ -6,7 +6,7 @@ Draw Koch Snowflake with turtle
 
 # DEMO
 
-![描画の例](https://github.com/WindVoiceVox/KochSnowflake/image/KochSnowflake.png "Koch Snowflake")
+![描画の例](https://github.com/WindVoiceVox/KochSnowflake/blob/main/image/KochSnowflake.png "Koch Snowflake")
 
 # Requirement
 
